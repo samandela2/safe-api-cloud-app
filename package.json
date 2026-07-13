@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "scripts": {
     "build": "tsc",
-    "dev": "npx serve frontend/src"
+    "dev": "npx serve frontend/src",
     "start": "npx serve frontend/src -l tcp://0.0.0.0:8080"
   },
   "devDependencies": {
